@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\aGProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_pause.png",
+        "source": "C:\\aGProject\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\aGProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_stop.png",
+        "source": "C:\\aGProject\\app\\src\\main\\res\\drawable-xxhdpi\\ic_stop.png"
+    },
+    {
+        "merged": "C:\\aGProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_time.png",
+        "source": "C:\\aGProject\\app\\src\\main\\res\\drawable-xxhdpi\\ic_time.png"
+    },
+    {
+        "merged": "C:\\aGProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_start.png",
+        "source": "C:\\aGProject\\app\\src\\main\\res\\drawable-xxhdpi\\ic_start.png"
+    },
+    {
+        "merged": "C:\\aGProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_tracking.png",
+        "source": "C:\\aGProject\\app\\src\\main\\res\\drawable-xxhdpi\\ic_tracking.png"
+    },
+    {
+        "merged": "C:\\aGProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_distance.png",
+        "source": "C:\\aGProject\\app\\src\\main\\res\\drawable-xxhdpi\\ic_distance.png"
+    },
+    {
+        "merged": "C:\\aGProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_speed.png",
+        "source": "C:\\aGProject\\app\\src\\main\\res\\drawable-xxhdpi\\ic_speed.png"
+    },
+    {
+        "merged": "C:\\aGProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_calendar.png",
+        "source": "C:\\aGProject\\app\\src\\main\\res\\drawable-xxhdpi\\ic_calendar.png"
+    }
+]
