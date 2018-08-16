@@ -1,5 +1,5 @@
 package com.massivcode.choisfamily.tracking;
-
+//2commit
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.database.Cursor;
@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             mNotifyTextView.setVisibility(View.GONE);
         }
     }
-//aa
+
     private void initViews() {
         mNotifyTextView = (TextView) findViewById(R.id.notify_tv);
 
