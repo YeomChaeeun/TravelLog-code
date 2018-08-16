@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             mNotifyTextView.setVisibility(View.GONE);
         }
     }
-
+//aa
     private void initViews() {
         mNotifyTextView = (TextView) findViewById(R.id.notify_tv);
 
